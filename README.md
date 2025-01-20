@@ -5,5 +5,7 @@ This is demo for Git &amp; Github class.
 Shradha Khapra
 
 # student 
-
 Prasanna Hoalmbe
+
+# course
+Sigma
